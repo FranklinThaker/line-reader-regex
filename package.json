@@ -1,0 +1,15 @@
+{
+  "name": "line-reader-regex",
+  "version": "1.0.0",
+  "description": "A Node.js package to read a file line by line and extract lines based on a regex match.",
+  "main": "index.js",
+  "keywords": [
+    "line-reader",
+    "file",
+    "regex",
+    "readline",
+    "large-file"
+  ],
+  "author": "Franklin Thaker",
+  "license": "MIT"
+}
